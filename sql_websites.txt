@@ -1,0 +1,4 @@
+sqlzoo.net
+
+put pdf of all quizzes and exercises on github
+

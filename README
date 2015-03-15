@@ -16,7 +16,7 @@ in
 #used for wild cards("%U")
 like
 
-#used to get number of items for each distinct item in the column with the group keyword
+#used to get number of items for the coumn you choose for each distinct item in the column with the group keyword
 
 group by
 

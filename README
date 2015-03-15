@@ -1,1 +1,27 @@
-This will show off my sql skills
+sql key words i have fully understood
+
+#this will select the values i want
+select
+#used for satisfiying certain conditions
+where
+
+#Used to tell sql what table to get data from
+from
+#used for questions such as show the countries in europe with a percapita gdp greater than united kingdom
+select within select
+
+#used for a list of items you want to find information on 
+in
+
+#used for wild cards("%U")
+like
+
+#used to get number of items for each distinct item in the column with the group keyword
+
+group by
+
+#This will sum up a whole column
+sum
+
+#This will select a column you want by having a condition such as the sum of a column
+having 
